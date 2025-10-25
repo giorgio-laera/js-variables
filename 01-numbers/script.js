@@ -1,7 +1,7 @@
 const numOne = 8; // NON MODIFICARE QUESTA RIGA
 const numTwo = 16; // NON MODIFICARE QUESTA RIGA
 const numThree = 32; // NON MODIFICARE QUESTA RIGA
-let risultato;
+
 // Sostituisci NaN di seguito utilizzando
 // gli operatori numerici di Javascript
 
